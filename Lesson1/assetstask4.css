@@ -1,0 +1,14 @@
+.content{
+    color:#00A800;
+    background-color: black;
+    /*list-style-type: none;*/
+    font-size: 30px;
+}
+
+.item{
+    width: fit-content;
+    border: 5px 20px 5px 20px;
+    margin: 10px 30px 10px 30px;
+    background-color: darkblue;
+    padding:5px 20px 5px 20px;;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+#title{
+    color:blueviolet;
+    text-align:center;
+    display: inline-flex;
+}
+.act{
+    
+    color:#A8A8A9;
+    text-align: left;
+}
+.main{
+    color:black;
+    text-align:left;
+    width: 50%;
+}

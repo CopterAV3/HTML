@@ -1,0 +1,19 @@
+ul{
+    background-color:black;
+    
+   
+    /*box-sizing: border-box;*/
+}
+.done{
+    color:#00A800;
+    background-color:rgb(59, 59, 59);
+    list-style-type: "✓";
+    padding:10px 5px 10px 5px;
+    
+}
+.notdone{
+    color:crimson;
+    background-color: black;
+    list-style-type: "✕";
+    padding:10px 5px 10px 5px;
+}

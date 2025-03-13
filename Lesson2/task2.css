@@ -1,0 +1,33 @@
+.menu{
+    background-color:gray;
+    color:white;
+    width:250px;
+}
+.item-name{
+    color:bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+body,ul{
+    margin: 0;
+    padding:0;
+}
+ul{
+    list-style-type: none;
+}
+.image{
+    width:50px;
+    margin-right:15px;
+}
+.items{
+    /*padding:10px;*/
+    margin:10px;
+    
+}
+.menu-items{
+    padding:10px 20px;
+    
+}
+.menu-items:hover{
+    background-color: gold;
+}
