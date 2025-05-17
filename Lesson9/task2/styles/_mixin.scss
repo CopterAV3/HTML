@@ -1,0 +1,8 @@
+@mixin button($border,$bg){
+    @extend %flex-center;
+    padding: 0px 7px;
+    border:$borders;
+    background-color: $bg;
+    border-radius: 10px;
+    color:$button-text-col;
+}

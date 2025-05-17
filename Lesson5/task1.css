@@ -1,0 +1,23 @@
+body{
+    background-color:#000000;
+    
+
+}
+img{
+    /*position: relative;*/
+    width:30%;
+    top:50px;
+    left: 90px;
+    border:5px dashed#A80000;
+}
+.img_cont{
+    position: relative;
+    border:5px dotted #00A800;
+    height: 500px;
+}
+img:first-child{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}

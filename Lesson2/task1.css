@@ -1,0 +1,21 @@
+.container{
+    width:400px;
+    height: auto;
+    background-color: black;
+    color: bisque;
+    /*margin-top:20px;*/
+    margin:20px 10px;
+    padding:20px;
+    box-sizing:border-box;
+    border: 5px dotted green;
+}
+img{
+    width: 200px;
+    height: auto;
+    margin-left: 10px;
+    /*padding: 20px;*/
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}

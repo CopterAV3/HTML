@@ -1,0 +1,23 @@
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header .cont {
+  background-color: #202846;
+}
+.header .img {
+  width: 150px;
+}
+.header .img img {
+  width: 150px;
+}
+
+.slide {
+  padding: 20px 20px;
+  background-color: #202846;
+  border: none;
+  border-radius: 30px;
+  color: white;
+}/*# sourceMappingURL=task1.css.map */

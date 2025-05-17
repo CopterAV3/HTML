@@ -1,0 +1,21 @@
+%container{
+    margin:0 auto;
+    width: 80%;
+}
+%flex-params{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+%flex-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+%title{
+    font-size:36px;
+    color:$button-text-col;
+    font-weight: 300;
+    line-height: 64px;
+    
+}

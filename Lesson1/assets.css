@@ -1,16 +1,27 @@
-.cardred{
-    color:crimson;
-    background-color: darkgrey;
-    padding: 0px 5px 0px 5px;
+div{
+    color:#00A800;
 }
-.cardblack{
-    color:black;
-    background-color: darkgrey;
-    padding: 0px 5px 0px 5px;
+body{
+    background-color: black;
+    margin:0;
+    
+}
+nav{
+    color:white;
 
 }
-div{
-    background-color: wheat;
-    font-size:30px;
-    width:300px;
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+.nav_site{
+    padding: 10px 20px;
+}
+.nav_site_items{
+    color:crimson;
+}
+#list{
+    color:#00A800;
 }

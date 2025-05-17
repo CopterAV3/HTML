@@ -1,0 +1,19 @@
+@import './variables.scss';
+@import './mixins.scss';
+@import './placeholders.scss';
+.header{
+    .cont{
+        background-color: $main-color;
+    }
+    .img{
+        width:150px;
+
+        img{
+            width:150px;
+        }
+    }
+}
+.slide{
+    @include button(white,$main-color);
+    @extend %center-element;
+}
